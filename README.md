@@ -19,3 +19,6 @@ To get started with Model Building, follow these steps:
 ![Testing_Screenshot1](./try-first-machine-learning-model.ipynb-Github_1.png)
 
 ![Testing_Screenshot2](./try-first-machine-learning-model.ipynb-VSCode_1.png)
+
+## *Author*
+Mior
